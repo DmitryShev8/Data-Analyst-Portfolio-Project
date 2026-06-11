@@ -52,3 +52,4 @@ data-analyst-portfolio-project/
 ## Tools Used
 - Power BI (dashboard & visualization)
 - Jupyter Notebook (exploratory analysis)
+- CSV
