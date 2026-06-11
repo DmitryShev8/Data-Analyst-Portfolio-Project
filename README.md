@@ -39,6 +39,7 @@ This analysis is based solely on the provided sales dataset. Conclusions about m
 size, distribution coverage, and brand awareness require external data not available 
 in this dashboard, and should not be drawn from this analysis alone.
 
+## Project Structure
 data-analyst-portfolio-project/
 ├── data/sales_data.csv          # Raw dataset
 ├── notebook/[Python Files]     # Exploratory data analysis
@@ -49,5 +50,3 @@ data-analyst-portfolio-project/
 ## Tools Used
 - Power BI (dashboard & visualization)
 - Jupyter Notebook (exploratory analysis)
-
-## Project Structure
