@@ -40,12 +40,14 @@ size, distribution coverage, and brand awareness require external data not avail
 in this dashboard, and should not be drawn from this analysis alone.
 
 ## Project Structure
+```
 data-analyst-portfolio-project/
 ├── data/sales_data.csv          # Raw dataset
 ├── notebook/[Python Files]     # Exploratory data analysis
 ├── dashboard/powerbi_dashboard.pbix  # Interactive Power BI dashboard
 ├── output/[Visualization Images]      # Key chart exports
 └── report/summary.pdf            # Written summary report
+```
 
 ## Tools Used
 - Power BI (dashboard & visualization)
